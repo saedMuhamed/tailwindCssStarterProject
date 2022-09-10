@@ -5,3 +5,7 @@
 
 Run `install npm`
 
+To install Tailwind preproccesor use 
+
+
+
