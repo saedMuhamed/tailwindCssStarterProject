@@ -3,5 +3,5 @@
 
 ### for the packages use 
 
-`install npm`
+Run `install npm`
 
