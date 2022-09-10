@@ -6,6 +6,7 @@
 `npm install`
 
 ### To install Tailwind preproccesor use 
+`npm install tailwind`
 
 
 
