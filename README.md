@@ -3,7 +3,7 @@
 
 ### for the packages use 
 
-Run `npm`
+Run   `npm install`
 
 To install Tailwind preproccesor use 
 
