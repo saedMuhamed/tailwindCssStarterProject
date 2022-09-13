@@ -1,4 +1,4 @@
-# Tailwind Cs Starter Project
+# Tailwind CSS Starter Project
 ## This is starter project for the tailwind CSS
 
 ### for the packages use
